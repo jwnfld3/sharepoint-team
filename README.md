@@ -59,21 +59,6 @@ SharePoint Team Sites connected to Microsoft 365 Groups enhance team productivit
 
 ---
 
-### 4. Set Additional Settings
-- **Storage quota**: Define the site’s maximum storage if needed.
-- **Language**: Set the default language for the site.
-- **Site classification**: Apply labels like "Confidential" or "Internal" (if configured).
-
----
-
-### 6. Manage Site Permissions
-- Return to **Active sites** and select the newly created site.
-- Click **Permissions**:
-  - Add or remove **Owners**, **Members**, and **Visitors**.
-  - Define sharing settings (e.g., allow external sharing, restrict to group members).
-
----
-
 ## Definitions
 
 - **SharePoint Team Site**: A site used for collaboration that provides a document library, shared notebook, Planner integration, and more.
