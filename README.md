@@ -69,4 +69,4 @@ SharePoint Team Sites connected to Microsoft 365 Groups enhance team productivit
 
 ## Conclusion
 
-Creating a SharePoint Team Site associated with a Microsoft 365 Group empowers teams with a collaborative space to store documents, share resources, and work together in real time. Proper configuration and permissions ensure secure and efficient collaboration aligned with organizational needs.
+Creating a SharePoint Team Site empowers teams with a collaborative space to store documents, share resources, and work together in real time. Proper configuration and permissions ensure secure and efficient collaboration aligned with organizational needs.
