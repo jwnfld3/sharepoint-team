@@ -1,4 +1,4 @@
-# Lab: Create a SharePoint Site Associated with a Group
+# Create a SharePoint Site
 
 ## Overview
 This lab outlines how to create and manage a **SharePoint Team Site**. These sites serve as centralized hubs for document sharing, collaboration, and team communication within the Microsoft 365 environment.
