@@ -1,7 +1,7 @@
-# Lab: Create a SharePoint Site Associated with the Group
+# Lab: Create a SharePoint Site Associated with a Group
 
 ## Overview
-This lab outlines how to create and manage a **SharePoint Team Site** that is linked to a Microsoft 365 Group. These sites serve as centralized hubs for document sharing, collaboration, and team communication within the Microsoft 365 environment.
+This lab outlines how to create and manage a **SharePoint Team Site**. These sites serve as centralized hubs for document sharing, collaboration, and team communication within the Microsoft 365 environment.
 
 ---
 
@@ -9,7 +9,7 @@ This lab outlines how to create and manage a **SharePoint Team Site** that is li
 Admins managing SharePoint resources and responsible for enabling document collaboration in Microsoft 365.
 
 ## What  
-Create a SharePoint Team Site associated with a Microsoft 365 Group to enable seamless document storage, sharing, and collaboration.
+Create a SharePoint Team Site to enable seamless document storage, sharing, and collaboration.
 
 ## When  
 After the Microsoft 365 Group is created and accessible in the Microsoft 365 Admin Center.
@@ -41,17 +41,21 @@ SharePoint Team Sites connected to Microsoft 365 Groups enhance team productivit
 ![image](https://github.com/user-attachments/assets/3d9a60a6-170d-4523-9782-0060f3af28cb)
 ![image](https://github.com/user-attachments/assets/a4e893da-aae9-4392-a5f0-7e1d02999b3f)
 ![image](https://github.com/user-attachments/assets/1a56c3cc-0520-4ae2-90f7-f3ee61071462)
+![image](https://github.com/user-attachments/assets/f65e9431-afc4-435e-abab-9d97e77b6a3e)
 
 
 ---
 
 ### 3. Configure the Site
-- **Site name**: Enter the site name (e.g., "Finance Team Site").
+- **Site name**: Enter the site name (e.g., "Marketing Team Site").
 - The site address will auto-generate based on the name.
-- **Group association**: Choose to connect the site to an existing Microsoft 365 Group if available.
+![image](https://github.com/user-attachments/assets/b1800044-a6d8-441f-a3c3-87955698e51a)
+
 - **Privacy settings**:
   - **Private**: Only members can access the site.
   - **Public**: Anyone in the organization can access it.
+![image](https://github.com/user-attachments/assets/e5cdc32a-e317-41d4-883e-9763292dcb65)
+![image](https://github.com/user-attachments/assets/44a84661-d743-4ad7-9a30-8682a5cc0f36)
 
 ---
 
@@ -59,12 +63,6 @@ SharePoint Team Sites connected to Microsoft 365 Groups enhance team productivit
 - **Storage quota**: Define the site’s maximum storage if needed.
 - **Language**: Set the default language for the site.
 - **Site classification**: Apply labels like "Confidential" or "Internal" (if configured).
-
----
-
-### 5. Finalize and Create
-- Review the settings.
-- Click **Finish** to create the SharePoint Team Site.
 
 ---
 
