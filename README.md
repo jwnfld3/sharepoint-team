@@ -40,7 +40,8 @@ SharePoint Team Sites connected to Microsoft 365 Groups enhance team productivit
 - Click **+ Create** and select **Team site**.
 ![image](https://github.com/user-attachments/assets/3d9a60a6-170d-4523-9782-0060f3af28cb)
 ![image](https://github.com/user-attachments/assets/a4e893da-aae9-4392-a5f0-7e1d02999b3f)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1a56c3cc-0520-4ae2-90f7-f3ee61071462)
+
 
 ---
 
