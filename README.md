@@ -27,14 +27,20 @@ SharePoint Team Sites connected to Microsoft 365 Groups enhance team productivit
 
 ### 1. Open SharePoint Admin Center
 - Go to [https://admin.microsoft.com](https://admin.microsoft.com).
-- In the left navigation pane, click **Admin centers > SharePoint**.
+- In the left navigation pane, click **All Admin centers > SharePoint**.
 - The SharePoint Admin Center will open in a new tab.
+![image](https://github.com/user-attachments/assets/5a4ed776-538a-4996-b5e9-83e7dadb9748)
 
 ---
 
 ### 2. Navigate to Active Sites
 - In the SharePoint Admin Center, go to **Sites > Active sites**.
+![image](https://github.com/user-attachments/assets/46bdf162-9fa8-4faf-9f63-4afd8712c638)
+
 - Click **+ Create** and select **Team site**.
+![image](https://github.com/user-attachments/assets/3d9a60a6-170d-4523-9782-0060f3af28cb)
+![image](https://github.com/user-attachments/assets/a4e893da-aae9-4392-a5f0-7e1d02999b3f)
+![Uploading image.png…]()
 
 ---
 
